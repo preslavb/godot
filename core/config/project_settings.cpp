@@ -995,18 +995,6 @@ Error ProjectSettings::save_custom(const String &p_path, const CustomMap &p_cust
 			project_features.append(rendering_api);
 		}
 	}
-	// Check for the existence of a csproj file.
-	if (_csproj_exists(get_resource_path())) {
-		// If there is a csproj file, add the C# feature if it doesn't already exist.
-		if (!project_features.has("C#")) {
-			project_features.append("C#");
-		}
-	} else {
-		// If there isn't a csproj file, remove the C# feature if it exists.
-		if (project_features.has("C#")) {
-			project_features.remove_at(project_features.find("C#"));
-		}
-	}
 	project_features = _trim_to_supported_features(project_features);
 	set_setting("application/config/features", project_features);
 #endif // TOOLS_ENABLED
