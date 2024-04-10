@@ -1,0 +1,140 @@
+﻿<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Bakemon" type="CppProject" factoryName="C++ Project">
+    <configuration_1>
+      <option name="CONFIGURATION" value="editor" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_1>
+    <configuration_2>
+      <option name="CONFIGURATION" value="template_debug_[mono]" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_2>
+    <configuration_3>
+      <option name="CONFIGURATION" value="template_release" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_3>
+    <configuration_4>
+      <option name="CONFIGURATION" value="template_release_[mono]" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_4>
+    <configuration_5>
+      <option name="CONFIGURATION" value="editor_[mono]" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments) --path ../game" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_5>
+    <configuration_6>
+      <option name="CONFIGURATION" value="template_debug" />
+      <option name="PLATFORM" value="x64" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_6>
+    <configuration_7>
+      <option name="CONFIGURATION" value="template_release" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_7>
+    <configuration_8>
+      <option name="CONFIGURATION" value="template_debug" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_8>
+    <configuration_9>
+      <option name="CONFIGURATION" value="editor_[mono]" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_9>
+    <configuration_10>
+      <option name="CONFIGURATION" value="template_debug_[mono]" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_10>
+    <configuration_11>
+      <option name="CONFIGURATION" value="editor" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_11>
+    <configuration_12>
+      <option name="CONFIGURATION" value="template_release_[mono]" />
+      <option name="PLATFORM" value="Win32" />
+      <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+      <option name="CURRENT_LAUNCH_PROFILE" value="Local" />
+      <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+      <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+      <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+    </configuration_12>
+    <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/godot.vcxproj" />
+    <method v="2">
+      <option name="Build" />
+    </method>
+  </configuration>
+</component>
